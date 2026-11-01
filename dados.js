@@ -21,9 +21,9 @@ var filmes = [
     },
     {
         //3.
-        nome: "La La Land: Cantando Estações",
-        imagem: "imagens/LaLaLand.webp",
-        ano: "2016",
+        nome: "Blade Runner 2049",
+        imagem: "imagens/BladeRunner2049.jpg",
+        ano: "2017",
         sobre: "",
         diretor: "",
         duracao: "",
@@ -71,9 +71,9 @@ var filmes = [
     },
     {
         //8.
-        nome: "Blade Runner 2049",
-        imagem: "imagens/BladeRunner2049.jpg",
-        ano: "2017",
+        nome: "La La Land: Cantando Estações",
+        imagem: "imagens/LaLaLand.webp",
+        ano: "2016",
         sobre: "",
         diretor: "",
         duracao: "",
